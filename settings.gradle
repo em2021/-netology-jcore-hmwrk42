@@ -1,0 +1,5 @@
+rootProject.name = 'netology-javacore-hmwrk42'
+include 'db'
+include 'api'
+include 'service'
+
